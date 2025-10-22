@@ -28,6 +28,16 @@ O objetivo principal é fornecer um **exemplo prático e didático** de como ger
 
 ---
 
+## 🧩 Estrutura do Projeto
+```
+php-cli-crypto-tool/
+├── crypto_cli_tool.php
+├── README.md
+├── .gitignore
+└── LICENSE
+```
+---
+
 ## 🚀 Como Executar
 O script é **autônomo** — não requer dependências externas.  
 Certifique-se apenas de que a **extensão `openssl` do PHP** está habilitada.
