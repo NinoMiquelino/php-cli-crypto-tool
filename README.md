@@ -12,6 +12,12 @@
 
 # 🔐 Ferramenta CLI PHP para Geração e Validação de Chaves Criptográficas (RSA/ECDSA)
 ![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![License MIT](https://img.shields.io/badge/License-MIT-green)
+![Status Stable](https://img.shields.io/badge/Status-Stable-success)
+![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue)
+![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/php-cli-crypto-tool?style=social)
+![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/php-cli-crypto-tool?style=social)
+![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/php-cli-crypto-tool)
 
 ## 🧭 Descrição
 Este projeto é uma **ferramenta de linha de comando (CLI)** desenvolvida em **PHP** que demonstra o fluxo completo de **criptografia de chave pública e assinatura digital** utilizando a extensão nativa **OpenSSL**.  
