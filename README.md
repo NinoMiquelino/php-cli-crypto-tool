@@ -34,6 +34,7 @@ Certifique-se apenas de que a **extensão `openssl` do PHP** está habilitada.
 
 ```bash
 php crypto_cli_tool.php
+```
 
 Durante a execução, o script exibirá o passo a passo completo:
 Geração das chaves (RSA e ECDSA)
